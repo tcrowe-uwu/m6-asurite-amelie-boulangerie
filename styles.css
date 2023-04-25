@@ -24,7 +24,7 @@
     color: white;
     background-image: url("file:///Users/thecrowsnest/Documents/School_Work/GIT_215/M3/m6-asurite-amelie-boulangerie/images/BOWL.JPG");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right;
   }
   
   /* For the h1 */
@@ -75,10 +75,6 @@
   main {
     color: #542c1b;
     padding-bottom: 16px;
-  }
-  
-  /* image in the main */
-  main img {
     float: left;
   }
   
